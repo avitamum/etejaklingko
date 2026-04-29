@@ -1,0 +1,11 @@
+transaksi_id,pengguna_id,rating,komentar,kategori
+b1c2d3e4-0001-0001-0001-000000000001,a1b2c3d4-0001-0001-0001-000000000001,5,Layanan sangat memuaskan sopir ramah dan tepat waktu!,Umum
+b1c2d3e4-0002-0002-0002-000000000002,a1b2c3d4-0002-0002-0002-000000000002,4,Pada umumnya bagus tapi agak lama di halte terakhir,Umum
+b1c2d3e4-0003-0003-0003-000000000003,a1b2c3d4-0003-0003-0003-000000000003,3,Layanan biasa saja tidak ada yang istimewa,Umum
+b1c2d3e4-0004-0004-0004-000000000004,a1b2c3d4-0004-0004-0004-000000000004,4,Kursi tunggu nyaman dan bersih AC berfungsi baik,Fasilitas Busway
+b1c2d3e4-0005-0005-0005-000000000005,a1b2c3d4-0005-0005-0005-000000000005,2,Toilet di halte kotor dan tidak terawat dengan baik,Fasilitas Busway
+b1c2d3e4-0006-0006-0006-000000000006,a1b2c3d4-0001-0001-0001-000000000001,5,Aplikasi sangat user-friendly booking mudah dan cepat!,Aplikasi Jaklingko
+b1c2d3e4-0007-0007-0007-000000000007,a1b2c3d4-0002-0002-0002-000000000002,3,Aplikasi kadang crash ketika lagi rush hour,Aplikasi Jaklingko
+b1c2d3e4-0008-0008-0008-000000000008,a1b2c3d4-0003-0003-0003-000000000003,4,Fitur notifikasi real-time sangat membantu tapi boros kuota,Aplikasi Jaklingko
+b1c2d3e4-0009-0009-0009-000000000009,a1b2c3d4-0004-0004-0004-000000000004,1,Aplikasi error tidak bisa bayar melalui GoPay,Aplikasi Jaklingko
+b1c2d3e4-0010-0010-0010-000000000010,a1b2c3d4-0005-0005-0005-000000000005,5,Update terbaru tambah fitur lokasi real-time sangat bagus!,Aplikasi Jaklingko
